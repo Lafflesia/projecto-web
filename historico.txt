@@ -1,0 +1,62 @@
+d762e6e Adiciona um parágrafo à página inicial
+7c654ac Adiciona páragrafo à página inicial
+c19fdcd Adiciona título à página inicial
+cbe6835 Adiciona página inicial
+4385ebe Adiciona página inicial
+commit 7c654acf430d0c9e910b699a7b9ddaf821c4fe89
+Author: Patrick Gomes <toxix509@gmail.com>
+Date:   Fri Mar 27 16:09:19 2026 +0000
+
+    Adiciona páragrafo à página inicial
+
+diff --git a/index.html b/index.html
+index aa5674e..4505ddd 100644
+--- a/index.html
++++ b/index.html
+@@ -7,5 +7,7 @@
+ </head>
+ <body>
+  <h1>@olá</h1>   
++
++<p>Um parágrafo.</p>
+ </body>
+ </html>
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..6415fa8
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,14 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>O meu sítio</title>
++</head>
++<body>
++ <h1>@olá</h1>   
++
++<p>Um parágrafo.</p>
++<p>É tudo.</p>
++</body>
++</html>
+diff --git a/index.html b/index.html
+new file mode 100644
+index 0000000..4505ddd
+--- /dev/null
++++ b/index.html
+@@ -0,0 +1,13 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>O meu sítio</title>
++</head>
++<body>
++ <h1>@olá</h1>   
++
++<p>Um parágrafo.</p>
++</body>
++</html>
